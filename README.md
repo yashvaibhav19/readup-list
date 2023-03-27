@@ -4,4 +4,5 @@
 
 - [x] Browser Data Storage (part 1) 
 - [ ] Web Authentication  
-- [ ] TWD School/CSS Grid
+- [ ] TWD School/CSS Grid  
+- [ ] Redis implementation
